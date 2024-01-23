@@ -197,7 +197,6 @@ function explicandoODesafio(){
     console.log(" E depois o mesmo escolherá de forma aleatória entre 1 e 9 para que seja determinado o número de Derrotas")
     console.log(" ")
     console.log(" Após suas Escolhas o Usuário terá o seu Ranking calculado pelo sistema. ")
-    console.log(" ")
     
     userDataBase()
 }
